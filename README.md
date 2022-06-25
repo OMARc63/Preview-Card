@@ -1,3 +1,4 @@
+# you forget to use border radius for the main box.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
